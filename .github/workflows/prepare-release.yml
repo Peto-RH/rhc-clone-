@@ -67,3 +67,4 @@ jobs:
             * Card ID: ${{ inputs.jira_issue }}
 
             Review and merge this PR manually.
+
